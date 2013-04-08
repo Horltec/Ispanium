@@ -4,8 +4,7 @@ using System.Net.Sockets;
 using System.Net.NetworkInformation;
 using Common;
 
-
-namespace server
+namespace Server
 {
 	public class Server
 	{

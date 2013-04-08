@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "server\server.csproj", "{4E01B4C2-F0D9-45DB-AA30-3AC59C5E05D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "server\Server.csproj", "{4E01B4C2-F0D9-45DB-AA30-3AC59C5E05D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{5F6FCF53-BCC1-4AFB-9B51-420464C0E89E}"
 EndProject
@@ -27,6 +27,6 @@ Global
 		{5F6FCF53-BCC1-4AFB-9B51-420464C0E89E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = server\server.csproj
+		StartupItem = server\Server.csproj
 	EndGlobalSection
 EndGlobal
